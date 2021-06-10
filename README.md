@@ -1,4 +1,4 @@
 # python-ngram
 
 
-Inspired by (Repo)[https://github.com/joshualoehr/ngram-language-model]
+Inspired by [Repo](https://github.com/joshualoehr/ngram-language-model)
